@@ -16,5 +16,7 @@ Refer to https://github.com/EunHyeJung/AlgorithmStudy/blob/master/Hackerrank/She
 
 ## Common Child
 The main purpose of the question is to find out the largest subsequence from the two given strings.
-
+### The core idea
+<img src="commonChild.png" width="800" />
+The above image shows the core idea of the method. 
 Refer to https://github.com/shivam04/hackerrank/blob/master/common-child.java
