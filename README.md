@@ -22,5 +22,12 @@ The main purpose of the question is to find out the largest subsequence from the
 The above image shows the core idea of the method. 
 
 The example shows the process of calculating the "ABCDEF" and "FBDAMN".
+### Step 1
+Set the initial value of the line[0][j] and line[i][0].
+### Step 2
+if line[i-1][j] == line[i][j-1], then line[i][j]+=1.
+### Step 3
+else line[i][j] = Max(line[i-1][j],line[i][j-1]).
+
 
 Refer to https://github.com/shivam04/hackerrank/blob/master/common-child.java
