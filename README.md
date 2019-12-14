@@ -19,6 +19,6 @@ The main purpose of the question is to find out the largest subsequence from the
 ### The core idea
 <img src="commonChild.png" width="800" />
 
-The above image shows the core idea of the method. 
+The above image shows the core idea of the method. The example shows the process of calculating the "ABCDEF" and "FBDAMN".
 
 Refer to https://github.com/shivam04/hackerrank/blob/master/common-child.java
