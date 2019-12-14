@@ -13,3 +13,8 @@ write a method to calculate whether two strings belong to Anagram.
 both char array and HashMap can be used.
 
 Refer to https://github.com/EunHyeJung/AlgorithmStudy/blob/master/Hackerrank/Sherlock-and-Anagrams.java
+
+## Common Child
+The main purpose of the question is to find out the largest subsequence from the two given strings.
+
+Refer to https://github.com/shivam04/hackerrank/blob/master/common-child.java
