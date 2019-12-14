@@ -19,7 +19,7 @@ The main purpose of the question is to find out the largest subsequence from the
 ### The core idea
 <img src="commonChild.png" width="800" />
 
-The above image shows the core idea of the method. 
+The above image shows the core idea of the method. The Table is the length of "ABCDEF" (6) * the length of "FBDAMN" (6). 
 
 The example shows the process of calculating the "ABCDEF" and "FBDAMN".
 ### Step 1
