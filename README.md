@@ -37,6 +37,6 @@ In order to detect the Palindrome, the basic strategy can be divided into two st
 ### Step 1
 Detect the index of two elements that the value are different.
 ### Step 2
-when there is a position satisfy the step 1, then look at whether there is palindrome between i+1 and j. If it is palindrome, then delete the element i, otherwise delete the element j.
+when there is a position satisfy the step 1, then look at whether there is palindrome between i+1 and j. If it is palindrome, then delete the element i, otherwise delete the element j. For example, aaab, b will be removed and abab, a will be removed.
 
 Refer to https://github.com/charles-wangkai/hackerrank/blob/master/palindrome-index/Solution.java
