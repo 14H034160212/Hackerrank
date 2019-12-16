@@ -31,3 +31,12 @@ else line[i][j] = Max(line[i-1][j],line[i][j-1]).
 
 
 Refer to https://github.com/shivam04/hackerrank/blob/master/common-child.java
+
+## Palindrome Index
+In order to detect the Palindrome, the basic strategy can be divided into two steps:
+### Step 1
+Detect the index of two elements that the value are different.
+### Step 2
+when there is a position satisfy the step 1, then look at whether there is palindrome between i+1 and j. If it is palindrome, then delete the element i, otherwise delete the element j.
+
+Refer to https://github.com/charles-wangkai/hackerrank/blob/master/palindrome-index/Solution.java
